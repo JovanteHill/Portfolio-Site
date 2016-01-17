@@ -1,16 +1,19 @@
 .content {
 	width: 100%;
 	margin: 0 auto;
-	text-align: left;
 	display: inline;
 }
 
 .content img {
+	margin: 0 auto;
+	text-align: center;
 	height: auto;
 	width: 250px;
 	border: 5px double black;
+	margin-bottom: 20px;
 }
 
 .content .item p {
 	font-size: 14pt;
+	text-align: left;
 }

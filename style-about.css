@@ -1,0 +1,16 @@
+.content {
+	width: 100%;
+	margin: 0 auto;
+	text-align: left;
+	display: inline;
+}
+
+.content img {
+	height: auto;
+	width: 250px;
+	border: 5px double black;
+}
+
+.content .item p {
+	font-size: 14pt;
+}

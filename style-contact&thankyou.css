@@ -1,4 +1,10 @@
-.Email-Form h4 {
+.contactForm {
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+}
+
+.contactForm h4 {
 	text-align: center;
 }
 
